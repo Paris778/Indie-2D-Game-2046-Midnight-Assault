@@ -1,5 +1,5 @@
 # Game : 2046-Midnight-Assault
-An indie,2-D, Sci-Fi game made with Java and the 
+An indie,2-D, Sci-Fi puzzle game developed in Java 
 
 # Gameplay Screenshots
 
